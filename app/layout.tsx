@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Real Estate Assistant",
   description: "Your professional Property Standard ChatBot",
-    generator: 'v0.dev'
+    generator: '
 }
 
 export default function RootLayout({
